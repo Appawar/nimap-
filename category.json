@@ -1,0 +1,14 @@
+[
+	{
+		"category_id" : 2,
+		"cat_name" : "Milk"
+	},
+	{
+		"category_id" : 3,
+		"cat_name" : "Daily Needs"
+	},
+	{
+		"category_id" : 4,
+		"cat_name" : "Construction"
+	}
+]

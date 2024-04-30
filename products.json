@@ -1,0 +1,44 @@
+[
+	{
+		"id" : 1,
+		"product_name" : "Amul",
+		"product_price" : "1000",
+		"category_id" : 2
+	},
+	{
+		"id" : 3,
+		"product_name" : "Milk",
+		"product_price" : "1000",
+		"category_id" : 2
+	},
+	{
+		"id" : 4,
+		"product_name" : "Rice",
+		"product_price" : "1000",
+		"category_id" : 2
+	},
+	{
+		"id" : 5,
+		"product_name" : "Sopa",
+		"product_price" : "1000",
+		"category_id" : 2
+	},
+	{
+		"id" : 6,
+		"product_name" : "Sopa",
+		"product_price" : "1000",
+		"category_id" : 2
+	},
+	{
+		"id" : 7,
+		"product_name" : "Sopa",
+		"product_price" : "1000",
+		"category_id" : 2
+	},
+	{
+		"id" : 8,
+		"product_name" : "pedha",
+		"product_price" : "1000",
+		"category_id" : 2
+	}
+]
